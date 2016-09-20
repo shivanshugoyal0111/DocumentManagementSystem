@@ -1,0 +1,13 @@
+.idea
+*.iml
+target/
+*.log
+*.log.gz
+*.tmp
+.settings/
+.classpath
+.project
+sonar-project.properties
+.sonar/
+src/main/resources/node_modules/
+src/main/resources/static/
